@@ -1,4 +1,12 @@
-Body {
+header{
     background-color:#383D58;
-color:white;
+    color: white;
+    display: flex;
+    justify-content:space-around;
+    height: 100px;
+}
+
+.logo-cabecalho{
+width: 60% ;
+
 }
