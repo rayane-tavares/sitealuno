@@ -5,7 +5,7 @@ header{
     justify-content:space-around;
     height: 100px;
 }
-
+body {font-family: 'EB Garamond', serif;}
 .logo-cabecalho{
 width: 60% ;
 
